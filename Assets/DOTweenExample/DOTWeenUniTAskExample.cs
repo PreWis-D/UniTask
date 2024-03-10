@@ -5,7 +5,7 @@ using System.Threading;
 using TMPro;
 using UnityEngine;
 
-public class DelayExample : MonoBehaviour
+public class DOTWeenUniTAskExample : MonoBehaviour
 {
     [SerializeField] private float _delayStart = 1f;
     [SerializeField] private TMP_Text _statusText;
